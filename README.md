@@ -1,14 +1,14 @@
 # Choso Island
 
-Friend test builds of Choso Island (Dynamic Island style utility for Mac).
+A Dynamic Island–style utility for macOS — music, lyrics, calendar, battery, and more, right in the notch.
 
-## Latest test build
+**[Download Choso Island](https://github.com/Mikey01-ui/choso-island/raw/main/Choso-Island.zip)** · Apple Silicon (arm64)
 
-See [Releases](https://github.com/Mikey01-ui/choso-island/releases) for a downloadable zip.
+## Install
 
-### Install notes for testers
-1. Download `Choso-Island-friend-test.zip`
-2. Unzip and move `Choso Island.app` to Applications
-3. Right-click → Open the first time (Gatekeeper)
-4. Grant Accessibility if prompted
-5. Apple Silicon only (arm64)
+1. Download [`Choso-Island.zip`](https://github.com/Mikey01-ui/choso-island/raw/main/Choso-Island.zip)
+2. Unzip and move **Choso Island.app** to Applications
+3. First launch: right-click the app → **Open** → Open again (Gatekeeper)
+4. Grant **Accessibility** when macOS asks (System Settings → Privacy & Security → Accessibility)
+
+Requires macOS on Apple Silicon.
